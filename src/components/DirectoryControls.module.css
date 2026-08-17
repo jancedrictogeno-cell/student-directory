@@ -1,0 +1,23 @@
+.controls {
+  margin: 20px 0;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.filterButton {
+  padding: 10px 15px;
+  margin-right: 8px;
+  border: 1px solid #ccc;
+  background: white;
+  cursor: pointer;
+}
+
+.activeFilter {
+  background: #333;
+  color: white;
+}
